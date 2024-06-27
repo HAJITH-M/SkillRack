@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Hello {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String inputString = scanner.nextLine(); // Get input from the user
